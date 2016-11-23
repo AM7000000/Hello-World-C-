@@ -1,4 +1,4 @@
-//Microsoft Inc.
+//Microsoft Incorporation.
 // Hello World.cs
 public class Hello1
 {
